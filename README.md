@@ -2,4 +2,4 @@
 # podcast-website
 Podcast responsive landing page, responsive for mobile, tablet and desktop, animated hamburger menu with CSS
 
-Live demo: podscastlanding.netlify.app/
+Live demo: https://podscastlanding.netlify.app/
